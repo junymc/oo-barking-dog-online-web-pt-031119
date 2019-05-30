@@ -5,6 +5,6 @@ class Dog
   end
 
   def self.name
-    @name = name
+    @name
   end
 end
